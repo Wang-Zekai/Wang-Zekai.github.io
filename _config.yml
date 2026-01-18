@@ -20,9 +20,9 @@ email: 2400013155@stu.pku.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   ZHXQ的个人博客
 twitter_username: username
-github_username: ZHXQ-Summer
+github_username: Wang-Zekai
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ZHXQ-Summer.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://Wang-Zekai.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 Language: zh-CN # the language of your site, e.g. en-US
 minimal_mistakes_skin: "dirt"
 search: true
@@ -77,13 +77,13 @@ author:
       url: "mailto:2400013155@stu.pku.edu.cn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ZHXQ-Summer"
+      url: "https://github.com/Wang-Zekai"
 footer:
   copyright: "© 2025 ZHXQ. All rights reserved."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ZHXQ-Summer"
+      url: "https://github.com/Wang-Zekai"
     - label: "邮箱"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:2400013155@stu.pku.edn.cn"
