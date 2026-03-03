@@ -70,11 +70,14 @@ body {
 .greedy-nav a {
   color: var(--ui-text-muted);
   font-weight: 600;
+  border-radius: 999px;
+  padding: 0.28rem 0.72rem;
 }
 
 .greedy-nav a:hover,
 .greedy-nav .visible-links a:hover {
   color: var(--ui-brand);
+  background: rgba(231, 208, 179, 0.42);
 }
 
 .layout--home .archive,
@@ -94,6 +97,10 @@ body {
   font-weight: 700;
   letter-spacing: 0.01em;
   line-height: 1.22;
+}
+
+.page__title {
+  text-shadow: 0 2px 0 rgba(255, 255, 255, 0.65);
 }
 
 .archive__item-title {
@@ -192,6 +199,13 @@ body {
 .archive__item {
   padding: 1rem 1.1rem;
   margin-bottom: 1rem;
+  transition: transform 220ms ease, box-shadow 220ms ease, border-color 220ms ease;
+}
+
+.archive__item:hover {
+  transform: translateY(-2px);
+  border-color: #c7ab88;
+  box-shadow: 0 10px 22px rgba(71, 50, 29, 0.16);
 }
 
 .toc {
