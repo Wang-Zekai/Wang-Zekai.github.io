@@ -1,6 +1,6 @@
 ---
-title: "帖子"
-permalink: /posts/
+title: "博客"
+permalink: /blog/
 layout: posts
 author_profile: true
 ---
