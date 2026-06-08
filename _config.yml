@@ -13,18 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 王泽恺 | ZHXQ
+title: Wang Zekai | ZHXQ
 # 添加以下配置
 favicon: "/assets/images/favicon.ico"  # 或 .png
 email: 2400013155@stu.pku.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  王泽恺的个人主页、博客与研究记录。
+  Wang Zekai's personal website, blog, and research notes.
 twitter_username: username
 github_username: Wang-Zekai
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Wang-Zekai.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 Language: zh-CN # the language of your site, e.g. en-US
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "default"
 search: true
 search_full_content: true    # 启用全文搜索
 search_provider: lunr        # 搜索提供者
@@ -67,7 +67,7 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name   : "王泽恺"
+  name   : "Wang Zekai"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "PKU undergraduate student interested in LLM reasoning and trustworthy AI."
   location: "Beijing, China"  # 添加位置信息
