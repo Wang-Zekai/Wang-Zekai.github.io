@@ -91,6 +91,10 @@ body {
   max-width: 980px;
 }
 
+.layout--single .page {
+  display: flow-root;
+}
+
 .home-hero {
   position: relative;
   margin-bottom: 1.4rem;
@@ -416,6 +420,37 @@ body {
 
 .language-cpp .cm {
   color: #9a9a9a;
+}
+
+.research-publication {
+  margin: 1.5rem 0 2rem;
+  padding-top: 1.25rem;
+  border-top: 2px solid var(--ui-text);
+}
+
+.page__content .research-publication__title {
+  max-width: 32ch;
+  margin: 0 0 0.75rem;
+  padding: 0;
+  border: 0;
+  font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1.4;
+  overflow-wrap: break-word;
+}
+
+.page__content .research-publication__meta {
+  margin: 0 0 1rem;
+  color: var(--ui-text-muted);
+  font-size: 0.85rem;
+  line-height: 1.7;
+}
+
+.research-publication__summary {
+  max-width: 62ch;
+  margin: 0;
 }
 
 @keyframes rise-in {

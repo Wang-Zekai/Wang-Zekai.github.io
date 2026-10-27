@@ -1,11 +1,11 @@
 main:
-  - title: "首页"
+  - title: "Home"
     url: /
-  - title: "博客"
+  - title: "Blog"
     url: /blog/
-  - title: "新闻"
+  - title: "News"
     url: /news/
-  - title: "关于我"
+  - title: "About Me"
     url: /about/
-  - title: "研究"
+  - title: "Research"
     url: /research/

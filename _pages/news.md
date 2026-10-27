@@ -1,7 +1,7 @@
 ---
 permalink: /news/
-title: "新闻"
+title: "News"
 author_profile: true
 ---
 
-这里会整理后续更新。
+Future updates will appear here.

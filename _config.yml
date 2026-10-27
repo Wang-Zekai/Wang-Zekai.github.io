@@ -23,11 +23,9 @@ twitter_username: username
 github_username: Wang-Zekai
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Wang-Zekai.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-Language: zh-CN # the language of your site, e.g. en-US
+locale: en-US
 minimal_mistakes_skin: "default"
-search: true
-search_full_content: true    # 启用全文搜索
-search_provider: lunr        # 搜索提供者
+search: false
 
 # Build settings
 markdown: kramdown
@@ -72,7 +70,7 @@ author:
   bio    : "PKU undergraduate student interested in LLM reasoning and trustworthy AI."
   location: "Beijing, China"  # 添加位置信息
   links:
-    - label: "邮箱"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:2400013155@stu.pku.edu.cn"
     - label: "GitHub"
@@ -84,7 +82,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Wang-Zekai"
-    - label: "邮箱"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:2400013155@stu.pku.edu.cn"
 

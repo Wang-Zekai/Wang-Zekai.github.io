@@ -1,23 +1,24 @@
 ---
 permalink: /about/
-title: "关于我"
+title: "About Me"
 ---
 
-我是 Wang Zekai，北京大学信息科学技术学院 2024 级本科生。目前主要关注大语言模型推理、检索增强推理、工具增强推理，以及可信大模型相关问题。
+I am Wang Zekai, an undergraduate student at the School of Electronics Engineering and Computer Science, Peking University, enrolled in 2024. My interests include large language model reasoning, retrieval- and tool-augmented reasoning, and trustworthy language models.
 
-## 教育经历
+## Education
 
-**北京大学 信息科学技术学院**
-本科生，2024.09 至今
+**Peking University, School of Electronics Engineering and Computer Science**
 
-## 研究兴趣
+Undergraduate student, September 2024 - present
 
-- 大语言模型推理与长链推理优化
-- 检索增强推理与工具增强推理
-- 可信大模型、幻觉与错误知识干扰
-- 模型推理过程的可解释性与可靠性
+## Research Interests
 
-## 联系方式
+- Large language model reasoning and long-chain reasoning optimization
+- Retrieval- and tool-augmented reasoning
+- Trustworthy language models, hallucinations, and misinformation interference
+- Interpretability and reliability of model reasoning
+
+## Contact
 
 - Email: [2400013155@stu.pku.edu.cn](mailto:2400013155@stu.pku.edu.cn)
 - GitHub: [Wang-Zekai](https://github.com/Wang-Zekai)
